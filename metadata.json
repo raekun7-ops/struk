@@ -1,6 +1,0 @@
-{
-  "name": "Laporan Pinjaman Harian",
-  "description": "Aplikasi laporan realisasi pinjaman harian per unit dengan sinkronisasi cloud, ekspor PNG, dan tema karakter.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
